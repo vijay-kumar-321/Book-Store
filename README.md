@@ -4,13 +4,6 @@ A simple web-based Bookstore Management System built with **Spring Boot**, **MyS
 
 ---
 
-## 📌 Project Demo
-
-Watch the full walkthrough on YouTube:  
-🎥 [Spring Boot Bookstore Project](https://youtu.be/xnur2ujza6k)
-
----
-
 ## 🚀 Features
 
 - Add new books with title, author, and price
